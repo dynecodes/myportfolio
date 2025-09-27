@@ -33,4 +33,6 @@ This project showcases my skills, projects, and experience as a developer, with 
    git clone https://github.com/dynecodes/myportfolio.git
    cd myportfolio
 
-🌐 **Portfolio Link**:[My Port](myportfolio-dyne-site.vercel.app)
+## 🌐 Portfolio
+[myportfolio-dyne-site.vercel.app](https://myportfolio-dyne-site.vercel.app)
+
