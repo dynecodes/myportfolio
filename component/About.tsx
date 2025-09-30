@@ -45,7 +45,7 @@ export default function About() {
         {/* About Text */}
         <div className="max-w-2xl text-gray-300 space-y-4">
             <p>
-            Hi, I’m <span className="font-semibold text-white">Your Name</span>, a
+            Hi, I’m <span className="font-semibold text-white">Dyne</span>, a
             passionate web developer who loves building modern, responsive, and
             user-friendly applications. I specialize in{" "}
             <span className="text-indigo-400">MERN Stack</span> and always enjoy
