@@ -30,6 +30,7 @@ export default function About() {
         "GitHub Copilot",
         "LLMs",
         "ML Tools",
+        "N8N",
         ],
         "CI/CD & Version Control": ["Git", "GitHub", "GitHub Desktop"],
     } as const;
