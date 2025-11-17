@@ -40,7 +40,7 @@ export default function Experience() {
     {
       year: "May 2021 - Present",
       role: "Freelance Full-Stack Developer",
-      company: "Self-employed / Remote • Gensan, PH",
+      company: "Self-employed / Remote • PH",
       details: [
         "Developed and deployed full-stack web apps using React (frontend) and Express.js API (backend) with MongoDB.",
         "Delivered tailored solutions for 3+ clients, increasing performance and usability by 30%.",
