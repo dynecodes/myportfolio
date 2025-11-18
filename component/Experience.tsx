@@ -1,46 +1,23 @@
-// export default function Experience() {
-//     const experiences = [
-//         {
-//         year: "2024 - Present",
-//         role: "Frontend Developer",
-//         company: "Tech Corp",
-//         details: "Building modern web applications with React, Next.js, and TailwindCSS.",
-//         },
-//         {
-//         year: "2022 - 2024",
-//         role: "Junior Web Developer",
-//         company: "StartupX",
-//         details: "Worked on full-stack features, optimized UI performance, and collaborated with designers.",
-//         },
-//     ];
-
-//     return (
-//         <section className="min-h-screen flex flex-col items-center justify-center px-6">
-//         <h1 className="text-4xl font-bold text-white mb-8">Experience</h1>
-//         <div className="space-y-8 max-w-3xl">
-//             {experiences.map((exp, i) => (
-//             <div
-//                 key={i}
-//                 className="border-l-4 border-indigo-500 pl-6 relative"
-//             >
-//                 <span className="absolute -left-3 top-0 w-6 h-6 bg-indigo-500 rounded-full"></span>
-//                 <h2 className="text-xl font-semibold text-white">{exp.role}</h2>
-//                 <p className="text-gray-400">{exp.company} • {exp.year}</p>
-//                 <p className="mt-2 text-gray-300">{exp.details}</p>
-//             </div>
-//             ))}
-//         </div>
-//         </section>
-//     );
-// }
 
 
 export default function Experience() {
   const experiences = [
     {
-      year: "May 2021 - Present",
+      year: "September 2025 - November 2025",
+      role: "Automation Engineer (N8N)",
+      company: "Maggymaid / Remote • PH",
+      details: [
+        "Built end-to-end automation workflows in n8n to create, update, and optimize WordPress posts using the WordPress REST API.",
+        "Integrated OpenAI agents within n8n to automatically generate SEO-optimized content, titles, tags, and metadata.",
+        "Developed custom JavaScript functions inside n8n to clean HTML, structure blog content, and process dynamic fields.",
+        "Automated full content lifecycle: fetching existing posts, enhancing SEO, updating featured images, and republishing.",
+        "Reduced manual posting workload by 80% through advanced workflow design, error handling, and modular automation steps."
+      ],
+    },
+    {
+      year: "May 2021 - July 2025",
       role: "Freelance Full-Stack Developer",
-      company: "Self-employed / Remote • PH",
+      company: "Fiverr / Remote • PH",
       details: [
         "Developed and deployed full-stack web apps using React (frontend) and Express.js API (backend) with MongoDB.",
         "Delivered tailored solutions for 3+ clients, increasing performance and usability by 30%.",
