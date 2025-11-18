@@ -39,7 +39,7 @@ function Hero() {
                 View Projects
                 </a>
                 <a
-                href="/DyRes.pdf"
+                href="/DyRes(3).pdf" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 rounded-xl bg-white/10 border border-white/20 text-white font-medium hover:bg-white/20 transition"
