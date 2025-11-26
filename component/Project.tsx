@@ -36,7 +36,7 @@ export default function Projects() {
             "Automated WordPress SEO using n8n by generating SEO-optimized HTML and image alt text with OpenAI and updating posts directly via the WordPress REST API.",
             stack: "n8n | WordPress REST API | OpenAI | JavaScript | HTTP APIs",
             links: [
-                { label: "Workflow Demo", url: "/N8N.pdf" }
+                { label: "Workflow Demo", url: "/n8n-workflow.pdf" }
             ],
         }
     ];
