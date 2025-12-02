@@ -48,6 +48,24 @@ export default function Projects() {
                 { label: "Admin", url: "https://mern-ecommerce-webapp-admin.onrender.com/" },
             ],
         },
+        {
+            title: "Website Design",
+            description:
+                "Figma UI design for app concept with authentication and design system.",
+            stack: "Figma",
+            links: [
+                { label: "Figma Link", url: "https://www.figma.com/proto/eX1qUuM4ZmQWgD1AdMUuzV/Starter-Design-System--Community-?node-id=0-1&t=4nrMC0W00rzPiBml-1/" },
+            ],
+        },
+        {
+            title: "Digital Planner",
+            description:
+                "Figma UI design that has notes, and whole calendar of 2024.",
+            stack: "Figma",
+            links: [
+                { label: "Demo", url: "https://www.figma.com/proto/tTGeDAxiopf5EWqNWut4OS/Designer-Passive-Income---Make-a-planner-in-Figma--Community-?node-id=0-1&t=s0Bd7k7ON24pT237-1/" },
+            ],
+        },
       
     ];
 
