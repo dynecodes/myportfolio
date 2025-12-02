@@ -3,15 +3,15 @@
 export default function Experience() {
   const experiences = [
     {
-      year: "September 2025 - November 2025",
-      role: "Automation Engineer (N8N)",
-      company: "Maggymaid / Remote • PH",
+      year: "September 2024 - November 2024",
+      role: "Frontend Developer & Automation Engineer (Project-Based Contract)",
+      company: "Maggymaid • Remote, PH",
       details: [
-        "Built end-to-end automation workflows in n8n to create, update, and optimize WordPress posts using the WordPress REST API.",
-        "Integrated OpenAI agents within n8n to automatically generate SEO-optimized content, titles, tags, and metadata.",
-        "Developed custom JavaScript functions inside n8n to clean HTML, structure blog content, and process dynamic fields.",
-        "Automated full content lifecycle: fetching existing posts, enhancing SEO, updating featured images, and republishing.",
-        "Reduced manual posting workload by 80% through advanced workflow design, error handling, and modular automation steps."
+        "Contract-based role focused on admin-facing CRM dashboard including leads, customers, bookings, messaging, teams, availability, and settings.",
+        "Created reusable UI components with React, TypeScript, and Tailwind CSS for scalable frontend architecture.",
+        "Integrated frontend modules with REST APIs for real-time bookings, calendars, and team management.",
+        "Developed automated n8n workflows integrating WordPress REST API and OpenAI for SEO content generation.",
+        "Reduced manual content publishing workload by 80% through end-to-end automation workflows."
       ],
     },
     {
@@ -23,12 +23,12 @@ export default function Experience() {
         "Delivered tailored solutions for 3+ clients, increasing performance and usability by 30%.",
         "Built secure RESTful APIs with Express.js, handling 100+ daily user requests with JWT authentication.",
         "Integrated Cloudinary for image upload, optimization, and storage, enhancing media performance by 40%.",
-        "Deployed apps to Vercel and Render with 99.9% uptime, managing source control with 100+ Git commits.",
+        "Deployed apps to Vercel and Render with 99.9% uptime.",
       ],
     },
     {
       year: "May 2024 - July 2024",
-      role: "Full-Stack Developer (OJT)",
+      role: "Full-Stack Developer (OJT / Internship)",
       company:
         "Provincial Government of South Cotabato - Information Technology Division • Koronadal, PH",
       details: [
