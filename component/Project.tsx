@@ -8,7 +8,7 @@ export default function Projects() {
                   "Developed a full admin customer relationship management (CRM) system for managing leads, customers, bookings, messaging, services, teams, and scheduling through a centralized dashboard.",
             stack: "React | TypeScript | Tailwind CSS | REST APIs | Admin UI",
             links: [
-                { label: "Leads Dashboard Preview", url: "/admin.pdf" },
+                { label: "Admin Dashboard Preview", url: "/admin.pdf" },
             ],
         },
         {
@@ -27,7 +27,7 @@ export default function Projects() {
             stack: "ASP.NET | C# | Microsoft SQL Server | Azure",
            // Use this Login account: User Name: 11265276 Password: 60-dayfreetrial
             links: [
-                { label: "Live Site", url: "/pemo.pdf" },
+                { label: "Admin Dashboard Preview", url: "/pemo.pdf" },
             ],
         },
         {
