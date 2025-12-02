@@ -27,7 +27,7 @@ export default function Projects() {
             stack: "ASP.NET | C# | Microsoft SQL Server | Azure",
            // Use this Login account: User Name: 11265276 Password: 60-dayfreetrial
             links: [
-                { label: "Live Site", url: "http://dynes02-001-site1.qtempurl.com/" },
+                { label: "Live Site", url: "/pemo.pdf" },
             ],
         },
         {
