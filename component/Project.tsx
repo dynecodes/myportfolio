@@ -2,6 +2,24 @@
 
 export default function Projects() {
     const projects = [
+          {
+            title: "Admin Leads Management Dashboard",
+            description:
+                  "Developed a full admin customer relationship management (CRM) system for managing leads, customers, bookings, messaging, services, teams, and scheduling through a centralized dashboard.",
+            stack: "React | TypeScript | Tailwind CSS | REST APIs | Admin UI",
+            links: [
+                { label: "Leads Dashboard Preview", url: "/admin.pdf" }
+            ],
+        }
+        {
+            title: "WordPress SEO Automation with n8n (HTML & Alt Text Optimization)",
+            description:
+            "Automated WordPress SEO using n8n by generating SEO-optimized HTML and image alt text with OpenAI and updating posts directly via the WordPress REST API.",
+            stack: "n8n | WordPress REST API | OpenAI | JavaScript | HTTP APIs",
+            links: [
+                { label: "Workflow Demo", url: "/n8n-workflow.pdf" }
+            ],
+        }
         {
             title: "PEMO Data Banking System",
             description:
@@ -30,15 +48,7 @@ export default function Projects() {
                 { label: "Admin", url: "https://mern-ecommerce-webapp-admin.onrender.com/" },
             ],
         },
-        {
-            title: "WordPress SEO Automation with n8n (HTML & Alt Text Optimization)",
-            description:
-            "Automated WordPress SEO using n8n by generating SEO-optimized HTML and image alt text with OpenAI and updating posts directly via the WordPress REST API.",
-            stack: "n8n | WordPress REST API | OpenAI | JavaScript | HTTP APIs",
-            links: [
-                { label: "Workflow Demo", url: "/n8n-workflow.pdf" }
-            ],
-        }
+      
     ];
 
     return (
