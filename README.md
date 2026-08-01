@@ -34,5 +34,5 @@ This project showcases my skills, projects, and experience as a developer, with 
    cd myportfolio
 
 ## 🌐 Portfolio
-[myportfolio-dyne-site.vercel.app](https://myportfolio-dyne-site.vercel.app)
+[myportfolio-dyne-site.vercel.app](https://myportfolio-dyne-site.vercel.app/)
 
