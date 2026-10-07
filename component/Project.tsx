@@ -35,7 +35,7 @@ export default function Projects() {
             description: "A modern responsive real estate website UI design.",
             stack: "Next.js | TypeScript | Tailwind CSS",
             links: [
-                { label: "Live Site", url: "https://home-rate-web-cum6rozeb-dynecodes-projects.vercel.app" },
+                { label: "Live Site", url: "https://home-rate-web-ui.vercel.app/" },
             ],
         },
         {
