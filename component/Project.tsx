@@ -2,6 +2,15 @@
 
 export default function Projects() {
     const projects = [
+         {
+            title: "Agentic AI Research Articles on Medium & LinkedIn",
+            description:
+                "Authored and published in-depth Medium articles analyzing emerging AI developments, including agentic reliability, verification gaps, and guardrail architecture, translating technical research into accessible insights for a developer audience. Repurposed each piece as native LinkedIn posts and replied to practitioner comments, turning readers into ongoing conversations with researchers and developers.",
+            stack: "Technical Writing | Agentic AI | AI Research | Medium | LinkedIn | Community Engagement",
+            links: [
+                { label: "LinkedIn Post & Engagement Analytics, Medium Articles", url: "/ai-research.pdf" },
+            ],
+        },
           {
             title: "Admin Leads Management Dashboard",
             description:
