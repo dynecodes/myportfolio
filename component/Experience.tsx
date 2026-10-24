@@ -16,7 +16,7 @@ export default function Experience() {
       role: "AI Researcher | Part-Time",
       company: "AI Transfer Lab Company • Remote, Europe-Based",
       details: [
-        "Authored and published in-depth Medium articles analyzing emerging AI developments (agentic reliability, verification gaps, guardrail architecture),translating technical research into accessible insights for a developer audience.",
+        "Researched, authored, and published 100+ in-depth AI articles, analyzing emerging AI developments (agentic reliability, verification gaps, guardrail architecture),translating technical research into accessible insights for a developer audience.",
         "Grew company LinkedIn from 0 to 200+ followers through consistent content and strategic engagement with AI practitioners and developers.",
         "Built insightful connections with researchers and web developers via targeted engagement, generating inbound collaboration and client prospects.",
         "Designed visual content (carousels, diagrams) to accompany written pieces, improving engagement and shareability across LinkedIn and Medium.",
