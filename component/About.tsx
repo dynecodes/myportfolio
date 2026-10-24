@@ -15,6 +15,7 @@ export default function About() {
         "CSS3",
         "Tailwind CSS",
         "Express.js",
+        "Bootstrap 5",
         ],
         "Databases & Cloud Platforms": [
         "Microsoft SQL Server",
