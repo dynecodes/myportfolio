@@ -7,10 +7,8 @@ export default function Experience() {
       role: "UI Developer | Full-Time",
       company: "DSLC Data Connect, Inc. • Davao, PH",
       details: [
-        "Authored and published in-depth Medium articles analyzing emerging AI developments (agentic reliability, verification gaps, guardrail architecture),translating technical research into accessible insights for a developer audience.",
-        "Grew company LinkedIn from 0 to 200+ followers through consistent content and strategic engagement with AI practitioners and developers.",
-        "Built insightful connections with researchers and web developers via targeted engagement, generating inbound collaboration and client prospects.",
-        "Designed visual content (carousels, diagrams) to accompany written pieces, improving engagement and shareability across LinkedIn and Medium.".
+        "Designed and built user interfaces, forms, and templates for internal systems, working from user requirements gathered in collaboration with technical teams to deliver intuitive, consistent UI/UX across on-site operations.",
+        "Troubleshot and resolved system and interface issues while improving existing processes, streamlining workflows and reducing user friction through iterative refinements based on feedback.".
       ],
     },
      {
