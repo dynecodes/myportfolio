@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as a developer, with 
 
 ## 🚀 Features  
 
-- ⚡ **Fast & Responsive** — Built with Next.js 14 and optimized for performance.  
+- ⚡ **Fast & Responsive** — Built with Next.js and optimized for performance.  
 - 🎨 **Modern UI/UX** — Styled with Tailwind CSS and Framer Motion animations.  
 - 📂 **Projects Showcase** — Highlight my best work with clean layouts.  
 - 📱 **Responsive Design** — Works seamlessly on desktop, tablet, and mobile.  
